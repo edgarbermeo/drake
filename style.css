@@ -1,0 +1,71 @@
+header{
+	background-color: gray;
+	color: white;
+	right: 200px;
+
+}
+#h1{
+	color: white;
+}
+#gtext{
+	color: white;
+font-size: 18px;
+float: right;
+margin-top: -10px;
+
+ 
+}
+.h1{
+	color: white;
+}
+
+#hola{
+position: absolute;
+width: 1200px;
+    max-width: 80%;
+    height: 83px;
+    margin-top: -180px;
+   
+    border: none;
+ 
+  right: 43px;
+ 
+    padding: 0 10px;
+	background-color:#85929E;
+}
+
+#hi{
+position: absolute;
+	margin-top: 30px;
+	width: 1200px;
+	max-width: 80%;
+	height: 83px;
+    right:40px;
+    background-color:#85929E;
+    border: none;
+}
+ 
+
+
+#uni{
+		background-color:white;
+	padding-left: 50px; 
+	padding-top: 40px;
+	color: black;
+}
+input{
+	padding-top: 25px;
+	background-color: white;
+	color: white;
+	padding-left: 42px;
+	color: black;
+	font-size: 15px;
+	width: 135px;
+}
+table{
+
+	padding-top: 200px; 
+	margin-left: 220px;
+
+
+}
